@@ -1,0 +1,39 @@
+.column1 {
+    background-color: black;
+    width: 100px;
+    text-align: center;
+    border-width:thick;
+    border-style: solid;
+    border-color: red;
+    color: white;
+}
+
+.column2 {
+    background-color: black;
+    width: 100px;
+    text-align: center;
+    border-width:thick;
+    border-style: solid;
+    border-color: red;
+    color: white;
+}
+
+.column3 {
+    background-color: black;
+    width: 100px;
+    text-align: center;
+    border-width:thick;
+    border-style: solid;
+    border-color: red;
+    color: white;
+}
+
+p {
+    height: initial;
+    width: 1000px;
+    background-color: rgba(238, 22, 191, 0.897);
+    border-width: thick;
+    border-color: rgba(0, 183, 255, 0.808);
+    color: rgb(250, 246, 246);
+    border-style: ridge;
+}

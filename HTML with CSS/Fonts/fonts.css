@@ -1,0 +1,9 @@
+p {
+    font-style:initial;
+    font-family: cursive;
+}
+
+ol {
+    @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+    font-family: 'Inconsolata', monospace;
+}

@@ -1,0 +1,18 @@
+p {
+    color: aqua;
+}
+
+ul {
+    color: red;
+    background-color: black;
+}
+
+#li1 {
+    color: blue;
+    background-color: yellow;
+}
+
+.li {
+    color:aqua;
+    background-color: blue; 
+}
